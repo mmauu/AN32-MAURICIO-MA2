@@ -31,7 +31,7 @@ for (let product of products) {
 const addLaptop = 10;
 products[0].quantity += addLaptop; // UPDATED NO. OF PRODUCT 
 
-// VARIABLES TO DETERMINE THE EXPENSIVE PRODUCT
+// VARIABLES TO DETERMINE THE EXPENSIVE PRODUCTT
 let highestPriceProductName = "";
 let highestPrice = 0;
 
